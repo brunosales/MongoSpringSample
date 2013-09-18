@@ -6,6 +6,6 @@
 *.ear
 
 .settings
-.classhpath
+.classpath
 .project
 target/**
